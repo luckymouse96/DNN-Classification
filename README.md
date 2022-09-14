@@ -6,11 +6,12 @@
 <ul>
 <li> Sử dụng google collab: <a> https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c </a> </li>
 <li> Các thư viện cần thiết: 
-<li>  - Pandas /<li>
-  - Matplotlib
-  - Seaborn
-  - Sklearn
-  - Tensorflow
-  - Keras
-</li>
+  <ul>  
+    <li>Pandas </li>
+    <li>Matplotlib</li>
+    <li>Seaborn</li>
+    <li>Sklearn</li>
+    <li>Tensorflow</li>
+    <li>Keras</li>
 </ul>
+  </li>
