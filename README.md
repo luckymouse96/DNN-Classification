@@ -6,7 +6,7 @@
 <ul>
 <li> Sử dụng google collab: <a> https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c </a> </li>
 <li> Các thư viện cần thiết: 
-  - Pandas
+<li>  - Pandas /<li>
   - Matplotlib
   - Seaborn
   - Sklearn
