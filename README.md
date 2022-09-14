@@ -13,8 +13,8 @@
     <li>Sklearn</li>
     <li>Tensorflow</li>
     <li>Keras</li>
-  </uk>
+  </ul>
 </li>
-<li> Hướng dẫn load model (file: weights.hdf5): <a> https://www.tensorflow.org/tutorials/keras/save_and_load </a> </li>
+<li> Hướng dẫn load model (file: weights.best.hdf5): https://www.tensorflow.org/tutorials/keras/save_and_load  </li>
 </ul>
   
