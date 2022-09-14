@@ -4,5 +4,5 @@
 
 ## 2 Google Collab:
 
-<p> Sử dụng google collab: <a> https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c <\a> <\p>
+<p> Sử dụng google collab: <a> https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c </a> </p>
 
