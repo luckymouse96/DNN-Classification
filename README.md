@@ -4,7 +4,7 @@
 
 ## 2 Hướng dẫn:
 <ul>
-<li> Sử dụng google collab: <a> https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c </a> </li>
+<li> Sử dụng google collab: https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c </li>
 <li> Các thư viện cần thiết: 
   <ul>  
     <li>Pandas </li>
