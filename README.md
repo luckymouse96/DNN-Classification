@@ -6,14 +6,13 @@
 <ul>
 <li><a href ="https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c">  Sử dụng google collab </a> </li>
 <li> Các thư viện cần thiết: 
-  <ul>  
+  <ol type="1">  
     <li>Pandas </li>
     <li>Matplotlib</li>
     <li>Seaborn</li>
     <li>Sklearn</li>
     <li>Tensorflow</li>
-    <li>Keras</li>
-  </ul>
+  </ol>
 </li>
 <li> <a href = "https://www.tensorflow.org/tutorials/keras/save_and_load"> Hướng dẫn load model (file: weights.best.hdf5)</a>  </li>
 </ul>
